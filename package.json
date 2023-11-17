@@ -3,7 +3,7 @@
   "version": "1.15.0",
   "type": "module",
   "main": "./nuxt.config.ts",
-  "packageManager": "pnpm@8.8.0",
+  "packageManager": "pnpm@8.10.5",
   "repository": "nuxt-themes/docus",
   "files": [
     "app",
@@ -32,27 +32,27 @@
     "@nuxt-themes/elements": "^0.9.5",
     "@nuxt-themes/tokens": "^1.9.1",
     "@nuxt-themes/typography": "^0.11.0",
-    "@nuxt/content": "^2.8.5",
-    "@nuxthq/studio": "^1.0.0",
-    "@vueuse/integrations": "^10.4.1",
-    "@vueuse/nuxt": "^10.4.1",
-    "focus-trap": "^7.5.3",
+    "@nuxt/content": "^2.9.0",
+    "@nuxthq/studio": "^1.0.4",
+    "@vueuse/integrations": "^10.6.1",
+    "@vueuse/nuxt": "^10.6.1",
+    "focus-trap": "^7.5.4",
     "fuse.js": "^6.6.2"
   },
   "devDependencies": {
     "@algolia/client-search": "^4.20.0",
     "@docsearch/css": "^3.5.2",
     "@docsearch/js": "^3.5.2",
-    "@nuxt/devtools": "^1.0.0",
+    "@nuxt/devtools": "^1.0.2",
     "@nuxt/eslint-config": "^0.2.0",
-    "@nuxtjs/algolia": "^1.9.0",
-    "@types/node": "^20.8.2",
-    "eslint": "^8.50.0",
-    "nuxt": "^3.7.4",
+    "@nuxtjs/algolia": "^1.10.1",
+    "@types/node": "^20.9.1",
+    "eslint": "^8.54.0",
+    "nuxt": "^3.8.1",
     "release-it": "^16.2.1",
     "typescript": "^5.2.2",
-    "vite-plugin-inspect": "^0.7.40",
-    "vue": "^3.3.4"
+    "vite-plugin-inspect": "^0.7.42",
+    "vue": "^3.3.8"
   },
   "pnpm": {
     "peerDependencyRules": {
